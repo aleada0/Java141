@@ -1,0 +1,80 @@
+Type     amount       balance      Descriptions   
+D        $2.00        $2.00        Savings     
+D        $23.00       $2.00        Checkings   
+W        $2.00        $4.00        Savings     
+W        $23.00       $25.00       Checkings   
+D        $2.00        $2.00        Savings     
+D        $23.00       $2.00        Checkings   
+W        $2.00        $4.00        Savings     
+W        $23.00       $25.00       Checkings   
+Type     amount       balance      Descriptions   
+W        $12.00       $312.00      ATM withdrawal
+Type     amount       balance      Descriptions   
+D        $12.00       $324.00      ATM deposit 
+D        $123.00      $246.00      ATM deposit 
+W        $123.00      $-120.00     ATM deposit 
+W        $3333.00     $8667.00     Bank deposit
+D        $230.00      $8897.00     Bank deposit
+D        $123.00      $246.00      Bank deposit
+D        $123.00      $369.00      Bank deposit
+D        $123.00      $492.00      Bank deposit
+W        $123.00      $369.00      ATM deposit 
+W        $1212.00     $19788.00    ATM deposit 
+D        $3452.00     $23240.00    Bank deposit
+D        $324.00      $12324.00    ATM transaction
+W        $1211.00     $11113.00    Bank transaction
+D        $111.00      $120111.00   ATM transaction
+W        $1111.00     $119000.00   Bank transaction
+D        $555.00      $130555.00   ATM transaction
+D        $111.00      $21111.00    ATM transaction
+W        $1111.00     $20000.00    Bank transaction
+D        $132.00      $135.00      ATM transaction
+W        $123.00      $12.00       ATM transaction
+D        $1200.00     $35200.00    ATM transaction
+W        $200.00      $35000.00    Bank transaction
+W        $35000.00    $0.00        ATM transaction
+W        $1.00        $0.00        Bank transaction
+D        $1212.00     $6767.00     ATM transaction
+D        $1111.00     $121111.00   ATM transaction
+W        $1111.00     $120000.00   Bank transaction
+W        $120000.00   $0.00        ATM transaction
+W        $100.00      $-100.00     Bank transaction
+D        $123.00      $246.00      ATM transaction
+W        $123.00      $123.00      ATM transaction
+D        $1.00        $125001.00   ATM transaction
+W        $125000.00   $1.00        Bank transaction
+W        $101.45      $-100.45     ATM transaction
+W        $100.00      $-100.45     ATM transaction
+D        $5000.00     $130000.00   ATM transaction
+W        $130000.00   $0.00        Bank transaction
+W        $200.00      $-200.00     ATM transaction
+W        $1.00        $-200.00     Bank transaction
+D        $10000.00    $130000.00   ATM transaction
+D        $10000.00    $140000.00   Bank transaction
+W        $140000.00   $0.00        ATM transaction
+W        $1.00        $-1.00       ATM transaction
+W        $199.00      $-200.00     Bank transaction
+D        $22222.00    $22022.00    ATM transaction
+D        $100000.00   $112000.00   ATM transaction
+D        $8000.00     $120000.00   Bank transaction
+D        $1.00        $120001.00   ATM transaction
+W        $120000.00   $1.00        ATM transaction
+W        $1.00        $0.00        Bank transaction
+D        $22.00       $145.00      ATM transaction
+W        $123.00      $0.00        ATM transaction
+D        $65.00       $65.00       Bank transaction
+Type     amount       balance      Descriptions   
+Type     amount       balance      Descriptions   
+Type     amount       balance      Descriptions   
+D        $13.00       $136.00      ATM transaction
+W        $23.00       $113.00      Bank transaction
+Type     amount       balance      Descriptions   
+D        $122.00      $12122.00    ATM transaction
+D        $11111.00    $23233.00    ATM transaction
+Type     amount       balance      Descriptions   
+D        $122.00      $121334.00   ATM transaction
+D        $11111.00    $132445.00   Bank transaction
+W        $10000.00    $122445.00   ATM transaction
+Type     amount       balance      Descriptions   
+D        $200.00      $1200.00     ATM transaction
+D        $40.00       $2040.00     Bank transaction
