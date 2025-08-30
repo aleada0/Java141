@@ -8,7 +8,7 @@ import java.util.Scanner;
  * object of this class was made. an array list is also made to record
  * transactions, only accepting values of the transaction class.
  * 
- * @author Alencastro
+ * @author NAME
  * @version 1.0
  * @since  8/22/2025
  */
@@ -46,7 +46,7 @@ public class BankAccount2 {
      * Getter methods: get the values of the ID, name, balance, annual and
      * monthly interest rate, and monthly interest.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/22/2025
      * @param accountID(int),balance(double),annualInterestRate(double),
@@ -80,7 +80,7 @@ public class BankAccount2 {
      * change methods: change the values of the ID, balance, annual
      * interest rate, and name.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/22/2025
      * @param accountID(int),balance(double),annualInterestRate(double),
@@ -106,7 +106,7 @@ public class BankAccount2 {
      * whatevers in the matching if condition to be printed in something in 
      * the Transaction class. this transaction is then added to an array. 
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/24/2025
      * @param choice(char)
@@ -200,7 +200,7 @@ public class BankAccount2 {
      * account's type, name, annual interest rate, monthly interest, 
      * and the date it was created.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/22/2025
      * @param letter(char)
@@ -225,7 +225,7 @@ public class BankAccount2 {
      * moneyAmount: This program simply prompts the user for a double value.
      * which is returned to transaction
      * Will not accept negative values.
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/23/2025
      * @param type(String)
@@ -259,3 +259,4 @@ public class BankAccount2 {
         return deposOrWithdraw;
     }
 }
+
