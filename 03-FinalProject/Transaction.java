@@ -12,7 +12,7 @@ import java.io.IOException;
  * where if so, will not affect the money in that account. the savings account
  * has a max overdraft of 0, and checkings has a max overdraft of 200.
  * 
- * @author Alencastro
+ * @author NAME
  * @version 1.0
  * @since 8/23/2025
  * @param transactionType(char),amount(double),balance(double),
@@ -75,7 +75,7 @@ public class Transaction {
     /**
      * Getter methods: get certain values from the transaction class
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/21/2025
      * @param C(char)
@@ -104,7 +104,7 @@ public class Transaction {
      * When this is called in the deposit or withdraw methods, the info of
      * the action, date, and time, is printed out to the text file chosen.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/16/2025
      * @param type(char),amount(double),balance(double),date(Date)
@@ -125,3 +125,4 @@ public class Transaction {
         }
     }
 }
+
