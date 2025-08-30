@@ -1,7 +1,7 @@
 /**
  * SavingsAccount: the savings account that inherits properties of BankAcc2 
  * 
- * @author Alencastro
+ * @author NAME
  * @version 1.0
  * @since 8/22/2025
  * @param accountID(int),balance(double)
@@ -16,3 +16,4 @@ public class SavingsAccount extends BankAccount2{
         changeBalance(balance);
     }
 }
+
