@@ -10,7 +10,7 @@ import java.util.Scanner;
  * The program gives the user will enter certain inputs for actions such as
  * creating one of these account types, depositing and withdrawing money with
  * the account of their choice, as well as displaying an account's info. 
- * @author Alencastro
+ * @author NAME
  * @version 1.0
  * @since  8/21/2025
  */
@@ -49,7 +49,7 @@ public class BankAccountApplication{
      * 
      * If there is a mismatching input, the user will simply be prompted again.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/21/2025
      * @param void
@@ -269,7 +269,7 @@ public class BankAccountApplication{
      * per spacing
      * and formatting.
 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/25/2025
      * @param void
@@ -298,7 +298,7 @@ public class BankAccountApplication{
      * 
      * If there is a mismatch input, the user will simply be prompted again.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/21/2025
      * @param C(char)
@@ -425,3 +425,4 @@ public class BankAccountApplication{
         }
     }
 }
+
