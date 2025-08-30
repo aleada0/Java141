@@ -1,5 +1,5 @@
 /** 
- * @author Adam Alencastro
+ * @author NAME
  * @since 7/22/2025
  * @version 1.0
  */
@@ -178,3 +178,4 @@ public class ICAOATranslator {
         System.out.print("\033[H\033[2J"); 
     }
 }
+
