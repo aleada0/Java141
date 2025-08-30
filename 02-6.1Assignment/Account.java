@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Class description: makes a class where objects for an bank account is made,
  * including the date the account was created.
- * @author Alencastro
+ * @author NAME
  * @version 1.0
  * @since  8/13/2025
  */
@@ -18,7 +18,7 @@ public class Account {
     /**
      * Account: default creation of an account with no parameters
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/14/2025
      * 
@@ -33,7 +33,7 @@ public class Account {
     /**
      * Account: creating an account but with parameters for the ID and balance.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/14/2025
      * 
@@ -48,7 +48,7 @@ public class Account {
      * getter methods: return private values seperately for ID, balance,
      * annual interest rate, date created, and monthly interest rate.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/14/2025
      * 
@@ -76,7 +76,7 @@ public class Account {
      * change methods: change the values of the ID, balance, and annual
      * interest rate.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/14/2025
      * 
@@ -97,7 +97,7 @@ public class Account {
      * deposit/withdraw methods: add or subtract how much you have from the 
      * bank
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/14/2025
      * 
@@ -123,7 +123,7 @@ public class Account {
      * When this is called in the deposit or withdraw methods, the info of
      * the action, date, and time, is printed out to the text file chosen.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/16/2025
      * 
@@ -146,3 +146,4 @@ public class Account {
         }
     }
 }
+
