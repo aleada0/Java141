@@ -8,7 +8,7 @@ import java.util.*;
  * certain actions will be logged. The program gives the user will enter
  * certain inputs for actions such as creating an account 
  * and depositing and withdrawing money from the bank. 
- * @author Alencastro
+ * @author NAME
  * @version 1.0
  * @since  8/13/2025
  */
@@ -41,7 +41,7 @@ public class TestAccount {
      * 
      * If there is a mismatch input, the user will simply be prompted again.
      * 
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/13/2025
      * @param acc(Account)
@@ -139,7 +139,7 @@ public class TestAccount {
     /**
      * createAccount: ID, bank amount, and the annual interest rate, in that
      * order will be displayed.
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/15/2025
      * @param acc(Account)
@@ -167,7 +167,7 @@ public class TestAccount {
      * 
      * Each time this is passed, it is printed to an outside text file, stating
      * how much was taken and when.
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/15/2025
      * @param acc(Account)
@@ -186,7 +186,7 @@ public class TestAccount {
      * withdraw: same thing with deposit, except the
      * amount entered with withdrawn (subtracted) from the bank.
      *
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/15/2025
      * @param acc(Account)
@@ -205,7 +205,7 @@ public class TestAccount {
      * giveData: Taking the parameter from account, it'll print out the
      * account's balance, annual and monthly interest rate, and the date
      * it was created.
-     * @author Alencastro
+     * @author NAME
      * @version 1.0
      * @since 8/14/2025
      * @param acc(Account)
@@ -223,4 +223,5 @@ public class TestAccount {
         System.out.println("Account Creation Date: " + acc.getDateCreated());
     }
 }
+
 
